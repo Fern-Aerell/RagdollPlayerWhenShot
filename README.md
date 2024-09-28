@@ -1,9 +1,5 @@
 # RagdollPlayerWhenShot
 
-## Version
-**1.3.30.0**
-
-## Description
 RagdollPlayerWhenShot is a mod for Grand Theft Auto V that allows the player character to enter a ragdoll state when shot. The duration of the ragdoll increases as the player's health decreases. If the player finds themselves stuck in a ragdoll due to continuous shooting, they can hold the jump button to stand up.
 
 ## Features
@@ -19,11 +15,6 @@ RagdollPlayerWhenShot is a mod for Grand Theft Auto V that allows the player cha
 ## Installation
 1. Place `RagdollPlayerWhenShot.dll` in the `scripts` folder in the GTA V directory.
 2. Ensure that the required files are installed and set up correctly.
-
-## Changelog
-- Bug Fixes
-- The duration of the ragdoll increases as the player's health decreases.
-- If the player is stuck in a ragdoll due to continuous shooting, they can hold the jump button to stand up while ragdolling.
 
 ## Author
 **Fern Aerell**
