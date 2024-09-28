@@ -9,6 +9,7 @@ RagdollPlayerWhenShot is a mod for Grand Theft Auto V that allows the player cha
 
 ## Requirements
 * [C++ Script Hook V by Alexander Blade](http://www.dev-c.com/gtav/scripthookv/)
+* [Script Hook V .NET](https://github.com/scripthookvdotnet/scripthookvdotnet)
 * [.NET Framework ≥ 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)
 * [Visual C++ Redistributable for Visual Studio 2019 x64](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 
