@@ -12,9 +12,9 @@ RagdollPlayerWhenShot is a mod for Grand Theft Auto V that allows the player cha
 - **Wake-Up Mechanic**: Players can hold the jump button to recover from ragdoll if they are continuously shot.
 
 ## Requirements
-- **C++ Script Hook V** by Alexander Blade
-- **.NET Framework** ≥ 4.8
-- **Visual C++ Redistributable for Visual Studio 2019 x64
+* [C++ Script Hook V by Alexander Blade](http://www.dev-c.com/gtav/scripthookv/)
+* [.NET Framework ≥ 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)
+* [Visual C++ Redistributable for Visual Studio 2019 x64](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 
 ## Installation
 1. Place `RagdollPlayerWhenShot.dll` in the `scripts` folder in the GTA V directory.
