@@ -15,9 +15,3 @@ RagdollPlayerWhenShot is a mod for Grand Theft Auto V that allows the player cha
 ## Installation
 1. Place `RagdollPlayerWhenShot.dll` in the `scripts` folder in the GTA V directory.
 2. Ensure that the required files are installed and set up correctly.
-
-## Author
-**Fern Aerell**
-
-## Disclaimer
-This mod is intended for single-player use. Use at your own risk. The author is not responsible for any issues that may arise from the use of this mod.
